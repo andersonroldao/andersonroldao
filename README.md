@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @andi_roldao
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🎈 Hi, I’m @andi_roldao
+- 🧐 I’m interested in learning
+- ☕ I’m currently learning HTML5 and CSS3

@@ -1,3 +1,4 @@
 - 🎈 Hi, I’m @andi_roldao
-- 🧐 I’m interested in learning
-- ☕ I’m currently learning HTML5, CSS3 and JS.
+- 📚 Systems Analysis and Development Student.
+- 🧐 Focus on learning.
+-  ☕ learning HTML5, CSS3 and JS.

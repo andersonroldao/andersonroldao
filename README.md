@@ -1,4 +1,4 @@
-- 🎈 Hi, I’m @andi_roldao
-- 📚 Systems Analysis and Development Student.
+- 🎈 Hey, @andi_roldao here.
+- 📚 I have a degree in Systems Analysis and Development.
 - 🧐 Focus on learning.
--  ☕ learning HTML5, CSS3 and JS.
+- ☕ learning HTML5, CSS3 and JS.
